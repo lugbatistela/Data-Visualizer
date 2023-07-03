@@ -9,6 +9,7 @@ html {
 }
 
 html {
+  background-color: orange;
   position: relative;
   min-height: 100%;
 }
